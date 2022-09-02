@@ -8,7 +8,7 @@
 - 若安装不成功，可尝试`LostCastle_BossRush_x86.zip`
 4. 打开游戏，按键盘`5`可以唤出猎人助手
 
-*** 好用请 Star 点赞 谢谢！***
+***好用请 Star 点赞 谢谢！***
 
 ## 演示
 https://www.bilibili.com/video/BV1cD4y1z7va/
