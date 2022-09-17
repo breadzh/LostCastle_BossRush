@@ -1,6 +1,8 @@
 # 失落城堡 猎人 Mod / BossRush（首领连战） Mod
 *免责声明：仅供学习交流，严禁用于商业用途，请于24小时内删除*
 
+## v0.1.8 开发中，请移步QQ群 `952653042`
+
 ## 使用方法
 1. 页面右侧打开 `Release` 页面下载 `LostCastle_BossRush_x64.zip`
 2. 解压至游戏根目录（即`BepInEx`文件夹与`Lost_Castle.exe`同级）
